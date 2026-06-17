@@ -78,7 +78,7 @@ Run these slash commands as an owner/admin:
 Map Gymdesk instructors to Discord members:
 
 ```text
-/instructor_map gymdesk_name:"Arthur Henry" member:@arthur
+/instructor_map gymdesk_name:"John Smith" member:@jsmith
 ```
 
 Force a schedule sync:
