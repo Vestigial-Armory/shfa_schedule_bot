@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/shfa_schedule_bot/__init__.py
+src/shfa_schedule_bot/bot.py
+src/shfa_schedule_bot/config.py
+src/shfa_schedule_bot/gymdesk.py
+src/shfa_schedule_bot/store.py
+src/shfa_schedule_bot.egg-info/PKG-INFO
+src/shfa_schedule_bot.egg-info/SOURCES.txt
+src/shfa_schedule_bot.egg-info/dependency_links.txt
+src/shfa_schedule_bot.egg-info/entry_points.txt
+src/shfa_schedule_bot.egg-info/requires.txt
+src/shfa_schedule_bot.egg-info/top_level.txt
+tests/test_gymdesk_parser.py

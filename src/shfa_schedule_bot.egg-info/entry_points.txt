@@ -1,0 +1,2 @@
+[console_scripts]
+shfa-schedule-bot = shfa_schedule_bot.bot:main
